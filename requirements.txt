@@ -1,0 +1,6 @@
+numpy
+opencv-python
+open3d
+scipy
+pytest
+# pyrealsense2 is required only on a RealSense-capable local machine.
