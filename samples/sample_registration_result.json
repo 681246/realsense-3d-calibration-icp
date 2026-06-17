@@ -1,0 +1,16 @@
+{
+  "rotation_angles": {
+    "tx": 0.003,
+    "ty": -0.001,
+    "tz": 0.006,
+    "rx": 0.12,
+    "ry": -0.05,
+    "rz": 0.30
+  },
+  "fitness": 0.82,
+  "inlier_rmse": 0.006,
+  "identity_transform": false,
+  "source_point_count": 125000,
+  "target_point_count": 126500,
+  "result_note": "Demo values only. No production point cloud is included."
+}
