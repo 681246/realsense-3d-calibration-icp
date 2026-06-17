@@ -1,0 +1,9 @@
+START | RealSense pipeline
+CAPTURE | aligned depth and color frames
+PROCESS | RGBD image to point cloud
+SAVE | current image and current PCD
+LOAD | master PCD and current PCD
+ICP | registration started
+CHECK | fitness and RMSE validation
+RESULT | tx ty tz rx ry rz extracted
+END | 3D calibration completed
